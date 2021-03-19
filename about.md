@@ -1,16 +1,20 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hey! I am majoring in Computer Engineering(2023) from Thapar Institute of Engineerring and Technology, Patiala. I have a keen interest in Mathematics, Deep Learning and Software Development.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I am majoring in Computer Engineering (2023) from Thapar Institute of Engineerring and Technology, Patiala. I have a keen interest in Mathematics, Deep Learning and Software Development. The field of research and innovation have always fascinated me, and therefore I continuously try to contribute my bit there.
 
-If you have a question about him or else, just send a letter to him.
+I love getting my hands dirty with the latest technologies and enjoy teaching them just as much. I like to create, work and collaborate on innovative solutions to abstract problems.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Lowkey hate the people who use 4-spaces over a tab 😂😂
+
+I love puzzles and am a compulsive sudoku solver 😁🙌 
+
+My other hobbies include reading books, travelling, playing chess and public speaking.
 
 **may u needs ✨**
 
